@@ -4,6 +4,7 @@ module.exports = {
   head: [
     ['link', {rel: 'icon', href: '/'}]
   ],
+  base: '/techthink/',
   themeConfig: {
     repo: 'https://github.com/hucq/techthink',
     docsDir: 'docs',
